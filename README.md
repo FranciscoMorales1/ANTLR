@@ -21,6 +21,7 @@ Cada calculadora tiene:
 ## Ejecución
 
 ### Calculadoras Java:
+Ubicarse primero en la carpeta base luego: 
 ```bash
 java -cp "out;tool\antlr-4.13.2-complete.jar" Main
 ```
