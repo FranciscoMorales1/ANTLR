@@ -34,6 +34,6 @@ python -m src.main
 ## Modo de Uso
 1. Escribir expresión (ej: `2 + 3 * 4;`)
 2. Presionar Enter para nueva expresión
-3. Al finalizar: Enter + CONTROL + Z + Enter (Windows)
+3. Al finalizar: Enter, (se llega a nueva linea), luego, CONTROL + Z + Enter (Windows)
 
 Las calculadoras aceptan múltiples expresiones en una sola ejecución. Cada expresión debe terminar con salto de linea
